@@ -2,6 +2,10 @@
 
 TextureMaskMerger is a Unity Editor extension that allows you to easily combine a base texture with a mask texture, creating a new texture with transparency. This tool is particularly useful when working with shaders that require a single texture with built-in alpha channel.
 
+TextureMaskMergerは、ベーステクスチャとマスクテクスチャを簡単に結合して透明度を持つ新しいテクスチャを作成できるUnityエディタ拡張機能です。このツールは、組み込みのアルファチャンネルを持つ単一のテクスチャを必要とするシェーダーを使用する際に特に便利です。
+
+[日本語のREADMEはこちら](README_jp.md)
+
 ## Features
 
 - Merge a base texture with a mask texture
@@ -28,10 +32,6 @@ TextureMaskMerger is a Unity Editor extension that allows you to easily combine 
      - Mask: Output will match the mask texture's resolution.
 3. Click "Merge Textures".
 4. The merged texture will be saved in the same folder as the base texture, with "_Merged" appended to the filename.
-
-## Requirements
-
-- Unity 2019.4 or later (may work with earlier versions but not tested)
 
 ## License
 
