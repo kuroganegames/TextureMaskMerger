@@ -2,6 +2,10 @@
 
 TextureMaskMergerは、ベーステクスチャとマスクテクスチャを簡単に結合して透明度を持つ新しいテクスチャを作成できるUnityエディタ拡張機能です。このツールは、組み込みのアルファチャンネルを持つ単一のテクスチャを必要とするシェーダーを使用する際に特に便利です。
 
+TextureMaskMerger is a Unity Editor extension that allows you to easily combine a base texture with a mask texture, creating a new texture with transparency. This tool is particularly useful when working with shaders that require a single texture with built-in alpha channel.
+
+[English README is here](README.md)
+
 ## 機能
 
 - ベーステクスチャとマスクテクスチャの結合
